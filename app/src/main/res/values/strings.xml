@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Expandable Notification</string>
+    
+    
+    
+    <string name="notification_text">
+        A notification is a message that Android displays outside
+        your apps UI to provide the user with timely reminders,communication from other people,
+        or other timely imformation from your app.
+        Users can tap the notification to open your app or take an action directly from the notification.
+    </string>
+    
+    
+</resources>
